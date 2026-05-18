@@ -1,16 +1,24 @@
-## Hi there 👋
+# Merhaba, ben Ünal 👋
 
-<!--
-**unal-cot/unal-cot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter & Dart geliştiricisiyim. Konum bazlı akıllı uygulamalar ve harita teknolojileri üzerine çalışıyorum.
 
-Here are some ideas to get you started:
+## Projelerim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Rota Görev Haritası
+Konum bazlı görev rotası haritası. Cihaz konumuna göre otomatik işaretlenen görev noktaları, gerçek zamanlı ilerleme takibi ve rota çizimi. Flutter mobil uygulama ve web prototipi.
+
+[→ Depoyu incele](https://github.com/unal-cot/RotaG-revHaritas-)
+
+### Yolistik — Akıllı Seyahat Asistanı
+AI destekli seyahat planlama uygulaması. Popüler destinasyonlar, kişiselleştirilmiş rotalar, ulaşım karşılaştırma ve bütçe yönetimi. Material 3 tasarım.
+
+## Kullandığım Teknolojiler
+
+| Alan | Teknolojiler |
+|------|-------------|
+| Mobil | Flutter, Dart |
+| State Yönetimi | Riverpod, Provider |
+| Harita & Konum | flutter_map, OpenStreetMap, Geolocator |
+| Web | HTML5, CSS3, JavaScript |
+| Tasarım | Figma, Material 3 |
+| Araçlar | Git, GitHub |
